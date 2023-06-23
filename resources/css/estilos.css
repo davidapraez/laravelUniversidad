@@ -1,0 +1,27 @@
+.custom-select {
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    height: auto;
+}
+.titulo-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.titulo {
+    margin: 0;
+    color: brown;
+}
+
+.btn-primary {
+    margin-left: 10px;
+}
+.table{
+    align-items: center;
+    text-align: center;
+    font-weight: bolder;
+}
